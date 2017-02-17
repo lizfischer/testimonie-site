@@ -1,0 +1,73 @@
+/*
+CSS for the testimonie project #5 main page
+
+Since CSS uses a global name space for classes we should use class names starting with
+testimonie-main- here.
+*/
+
+#testimonie-main-sidebar {
+    background-color: #fff/*#F8EEE7;*/
+}
+
+#testimonie-main-topbar {
+    background-color: #ffffff;/*#94618E;*/
+}
+#testimonie-main-topbar p {
+    margin-left: 10px;
+}
+#testimonie-main-topbar .greeting{
+    width: 10%;
+}
+
+#testimonie-main-topbar #page-title {
+    margin:auto;
+    color: #000000;
+    margin-left:-12%;
+}
+
+#testimonie-content {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+#testimonie-button {
+    background-color: #F2D388;
+    height: 2em;
+    width: 7em;
+    border-radius: 8px;
+    text-align: center;
+    margin: 5px 0;
+    display: inline-block;
+}
+
+#testimonie-button a {
+    width: 100%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    text-decoration: none;
+    font-variant: small-caps;
+    color: #874c62;
+}  #testimonie-button a:visited {
+   }
+
+#testimonie-version {
+    margin-right: 10px;
+}
+
+
+.testimonie-button{
+    background-color: #F2D388;
+
+}
+
+h1 {
+    text-align: center;
+    width: 80%;
+}
+
+h1, h2, h3, h4 {
+    color: #000000;
+}
