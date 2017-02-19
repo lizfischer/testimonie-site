@@ -27,7 +27,7 @@ testimonieApp.config(['$routeProvider', '$locationProvider',
             controller: 'AboutController'
         }).
         otherwise({
-            redirectTo: '/about'
+            redirectTo: '/home'
         });
 
     }
@@ -50,4 +50,9 @@ testimonieApp.controller('MainController', ['$scope', '$rootScope', '$location',
     function ($scope, $rootScope, $location,$mdDialog, $cookies) {
         $scope.main = {};
         $scope.main.title = 'A Testimonie of Antiquitie';
+        $scope.main.currentNavItem = 'page1';
+
+        $scope.main.goto=function (page) {
+            $location.path("/"+page)
+        }
     }]);

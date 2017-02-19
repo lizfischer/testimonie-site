@@ -30,9 +30,11 @@
 
     <div class="container" flex layout="row">
 
-        <md-sidenav md-is-locked-open="true" class="md-whiteframe-z2" id="testimonie-main-sidebar">
-test
-        </md-sidenav>
+        <md-nav-bar md-no-ink nav-bar-aria-label="navigation links" md-selected-nav-item="main.currentNavItem">
+            <md-nav-item md-nav-click="main.goto('home')" name="home">Home</md-nav-item>
+            <md-nav-item md-nav-click="main.goto('about')" name="about">About</md-nav-item>
+            <md-nav-item md-nav-click="main.goto('about')" name="about">Read</md-nav-item>
+        </md-nav-bar>
 
         <md-content flex id="testimonie-content">
             <div ng-view></div>
