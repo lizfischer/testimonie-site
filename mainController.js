@@ -51,6 +51,7 @@ testimonieApp.controller('MainController', ['$scope', '$rootScope', '$location',
         $scope.main = {};
         $scope.main.title = 'A Testimonie of Antiquitie';
         $scope.main.currentNavItem = 'page1';
+        $scope.main.sideNav = [{label:1},{label:2}];
 
         $scope.main.goto=function (page) {
             $location.path("/"+page)

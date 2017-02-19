@@ -1,6 +1,8 @@
 /**
  * Created by Liz on 2/18/2017.
  */
-testimonie-app.config(function ($mdThemingProvider) {
-
+testimonieApp.config(function ($mdThemingProvider) {
+    $mdThemingProvider.theme('default')
+        .primaryPalette('brown')
+        .accentPalette('deep-orange')
 });

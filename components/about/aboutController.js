@@ -6,5 +6,9 @@
 testimonieApp.controller('AboutController', ['$scope',
     function ($scope) {
         $scope.main.title = 'About';
+        $scope.main.sideNav = [{label:"a"},{label:"b"}];
+
+
+
     }]);
 

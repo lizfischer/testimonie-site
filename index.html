@@ -17,18 +17,21 @@
 
     <script src="node_modules/angular-route/angular-route.js"></script>
 
+
     <script src="mainController.js"></script>
+    <script src="theme.js"></script>
     <link rel="stylesheet" type="text/css" href="main.css" />
 
+    <script src="components/about/aboutController.js"></script>
 </head>
 
 <body layout="column">
-
     <md-toolbar layout = "row" id="testimonie-main-topbar">
-        <h1 id="page-title">A Testimonie of Antiquitie</h1>
+        <h1 flex="noshrink" id="site-title">A Testimonie of Antiquitie</h1>
+        <!--<img flex="none" src="https://stacks.stanford.edu/image/iiif/rs424xq9888%2Frs424xq9888_0078/435,247,1500,211/full/0/default.jpg">-->
     </md-toolbar>
 
-    <div class="container" flex layout="row">
+    <div class="container" flex layout="column">
 
         <md-nav-bar md-no-ink nav-bar-aria-label="navigation links" md-selected-nav-item="main.currentNavItem">
             <md-nav-item md-nav-click="main.goto('home')" name="home">Home</md-nav-item>
@@ -36,10 +39,18 @@
             <md-nav-item md-nav-click="main.goto('about')" name="about">Read</md-nav-item>
         </md-nav-bar>
 
-        <md-content flex id="testimonie-content">
-            <div ng-view></div>
-        </md-content>
-
+        <div flex layout="row">
+            <md-sidenav md-is-locked-open="true">
+                <md-list>
+                    <md-list-item ng-repeat="item in main.sideNav">
+                        {{item.label}}
+                    </md-list-item>
+                </md-list>
+            </md-sidenav>
+            <md-content flex id="testimonie-content">
+                <div ng-view></div>
+            </md-content>
+        </div>
     </div>
 
 </body>

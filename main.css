@@ -1,8 +1,24 @@
+body {
+    font-family: "Junicode";
+}
+
+md-toolbar{
+    overflow: hidden;
+} md-toolbar #site-title{
+    margin: auto;
+    text-align: center;
+} md-toolbar img {
+    width: auto;
+    height: 100%;
+}
+
 md-nav-bar{
-    width: 100%;
-    transition: none;
+    width:100%;
+    margin: auto;
 }
 
-md-nav-item{
-
+md-content{
+    margin: 0 auto;
+    padding: 0 5%;
 }
+
