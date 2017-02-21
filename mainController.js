@@ -64,7 +64,7 @@ testimonieApp.factory('Edition', ['$resource', function ($resource) {
 
 testimonieApp.factory('Page', ['$resource', function ($resource) {
     return $resource('/edition/read/:pg', {pg:'@pg'}, {
-        get: {method:'GET', params:{}, isArray:true}
+        get: {method:'GET', params:{}, isArray:false}
     });
 }]);
 

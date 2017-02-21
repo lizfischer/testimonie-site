@@ -35,14 +35,28 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
         });
 
         Page.get({pg: $routeParams.pg}, {}, function(annotations){
-            var leftText = [];
-            for (var i = 0; i < annotations.length; i++) {
-                var coords = getCoords(annotations[i]["on"]);
-                var text = annotations[i]["resource"]["chars"];
-                var lang = annotations[i]["resource"]["language"];
-                leftText.push({text:text, coords:coords, lang:lang});
+            var leftTranscript = [];
+            var leftModern = [];
+        console.log(annotations)
+            var transcript = annotations.transcript;
+            for (var i = 0; i < transcript.length; i++) {
+                var coords = getCoords(transcript[i]["on"]);
+                var text = transcript[i]["resource"]["chars"];
+                var lang = transcript[i]["resource"]["language"];
+                leftTranscript.push({text:text, coords:coords, lang:lang});
             }
-            $scope.read.leftText = leftText;
+            var modern = annotations.modern;
+            console.log(modern)
+            for (var i = 0; i < modern.length; i++) {
+                var coords = getCoords(modern[i]["on"]);
+                var text = modern[i]["resource"]["chars"];
+                var lang = modern[i]["resource"]["language"];
+                leftModern.push({text:text, coords:coords, lang:lang});
+            }
+
+            $scope.read.leftTranscript = leftTranscript;
+            $scope.read.leftModern = leftModern;
+
         });
 
         function getCoords(purl){

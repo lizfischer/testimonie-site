@@ -33,16 +33,25 @@ app.get('/edition/intro', function (request, response) {
 
 app.get('/edition/read/:pg', function (request, response) {
     var pg = request.params.pg;
-    var url = 'http://www.lizmfischer.com/annotations/list/transcript-'+pg+'.json';
+    var transcript = 'http://www.lizmfischer.com/annotations/list/transcript-'+pg+'.json';
+    var modern = 'http://www.lizmfischer.com/annotations/list/modern-'+pg+'.json';
+
     //var url = 'http://dms-data.stanford.edu/data/manifests/BnF/jr903ng8662/list/text-1r.json';
-    Request(url, function (error, response2, body) {
-        if (!error && response.statusCode==200){
-            var list = JSON.parse(body)["resources"];
-            response.end(JSON.stringify(list));
+    Request(transcript, function (error, response2, body) {
+        var list = {};
+        if (!error && response2.statusCode==200){
+            list.transcript=JSON.parse(body)["resources"];
+            Request(modern, function (error, response3, body) {
+                if (!error && response3.statusCode==200){
+                    list.modern = JSON.parse(body)["resources"];
+                    console.log(list);
+                    response.end(JSON.stringify(list));
+                } else console.log(error)
+            });
         } else console.log(error)
     })
-});
 
+});
 
 var port = process.env.PORT || 8080;
 var server = app.listen(port, function () {
