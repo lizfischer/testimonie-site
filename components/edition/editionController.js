@@ -63,7 +63,7 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
             var split = purl.split('#');
             split = split[1].split(',');
             var img = document.getElementById('pageLeft');
-            var imgWidth = img.clientWidth/1981*2;
+            var imgWidth = img.clientWidth/1981;
             coords.x = parseInt(split[0])*imgWidth;
             coords.y = parseInt(split[1])*imgWidth;
             coords.w = parseInt(split[2])*imgWidth;
