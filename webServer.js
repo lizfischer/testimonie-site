@@ -2,7 +2,7 @@
  * Created by efisch17 on 2/16/17.
  */
 
-
+var Request = require('request');
 var async = require('async');
 var session = require('express-session');
 var bodyParser = require('body-parser');
@@ -29,6 +29,18 @@ app.get('/about', function (request, response) {
 
 app.get('/edition/intro', function (request, response) {
     response.end("yay");
+});
+
+app.get('/edition/read/:pg', function (request, response) {
+    var pg = request.params.pg;
+    var url = 'http://www.lizmfischer.com/annotations/list/transcript-'+pg+'.json';
+    //var url = 'http://dms-data.stanford.edu/data/manifests/BnF/jr903ng8662/list/text-1r.json';
+    Request(url, function (error, response2, body) {
+        if (!error && response.statusCode==200){
+            var list = JSON.parse(body)["resources"];
+            response.end(JSON.stringify(list));
+        } else console.log(error)
+    })
 });
 
 
