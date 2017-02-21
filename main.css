@@ -22,3 +22,7 @@ md-content{
     padding: 0 5%;
 }
 
+.container{
+    width: 80%;
+    margin:auto;
+}

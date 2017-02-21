@@ -26,8 +26,24 @@ testimonieApp.config(['$routeProvider', '$locationProvider',
             templateUrl: 'components/about/aboutTemplate.html',
             controller: 'AboutController'
         }).
+        when('/front', {
+            templateUrl: 'components/front/frontTemplate.html',
+            controller: 'FrontController'
+        }).
+        when('/edition/intro', {
+            templateUrl: 'components/edition/introTemplate.html',
+            controller: 'EditionController'
+        }).
+        when('/edition/read', {
+            templateUrl: 'components/edition/readTemplate.html',
+            controller: 'EditionController'
+        }).
+        when('/home', {
+            templateUrl: 'components/home/home.html',
+            controller: 'HomeController'
+        }).
         otherwise({
-            redirectTo: '/home'
+            redirectTo: '/home',
         });
 
     }
@@ -42,6 +58,10 @@ testimonieApp.factory('About', ['$resource', function ($resource) {
     return $resource('/about');
 }]);
 
+testimonieApp.factory('Edition', ['$resource', function ($resource) {
+    return $resource('/edition');
+}]);
+
 /*******************
  * Main controller *
  *******************/
@@ -51,7 +71,7 @@ testimonieApp.controller('MainController', ['$scope', '$rootScope', '$location',
         $scope.main = {};
         $scope.main.title = 'A Testimonie of Antiquitie';
         $scope.main.currentNavItem = 'page1';
-        $scope.main.sideNav = [{label:1},{label:2}];
+        $scope.main.sideNav = null;
 
         $scope.main.goto=function (page) {
             $location.path("/"+page)

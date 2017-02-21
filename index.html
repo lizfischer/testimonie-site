@@ -2,7 +2,7 @@
 <html ng-app="testimonieApp" ng-controller="MainController">
 <head>
 
-    <title>A Testimonie of Antiquitie</title>
+    <title>{{main.title}} - A Testimonie of Antiquitie</title>
 
     <link href="./node_modules/angular-material/angular-material.css" rel="stylesheet" />
 
@@ -21,8 +21,14 @@
     <script src="mainController.js"></script>
     <script src="theme.js"></script>
     <link rel="stylesheet" type="text/css" href="main.css" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
+
+    <script src="components/home/homeController.js"></script>
     <script src="components/about/aboutController.js"></script>
+    <script src="components/front/frontController.js"></script>
+    <script src="components/edition/editionController.js"></script>
+
 </head>
 
 <body layout="column">
@@ -36,14 +42,15 @@
         <md-nav-bar md-no-ink nav-bar-aria-label="navigation links" md-selected-nav-item="main.currentNavItem">
             <md-nav-item md-nav-click="main.goto('home')" name="home">Home</md-nav-item>
             <md-nav-item md-nav-click="main.goto('about')" name="about">About</md-nav-item>
-            <md-nav-item md-nav-click="main.goto('about')" name="about">Read</md-nav-item>
+            <md-nav-item md-nav-click="main.goto('front')" name="front">Front Matter</md-nav-item>
+            <md-nav-item md-nav-click="main.goto('edition/intro')" name="edition">Edition</md-nav-item>
         </md-nav-bar>
 
         <div flex layout="row">
-            <md-sidenav md-is-locked-open="true">
+            <md-sidenav md-is-locked-open="true" ng-if="main.sideNav">
                 <md-list>
-                    <md-list-item ng-repeat="item in main.sideNav">
-                        {{item.label}}
+                    <md-list-item ng-repeat="item in main.sideNav" >
+                        <div ng-click="main.goto(item.link)">{{item.label}}</div>
                     </md-list-item>
                 </md-list>
             </md-sidenav>

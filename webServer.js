@@ -27,8 +27,12 @@ app.get('/about', function (request, response) {
     response.end("yay");
 });
 
+app.get('/edition/intro', function (request, response) {
+    response.end("yay");
+});
 
-var port = process.env.PORT || 3000;
+
+var port = process.env.PORT || 8080;
 var server = app.listen(port, function () {
     var port = server.address().port;
     console.log('Listening at ' + port + ' exporting the directory ' + __dirname);

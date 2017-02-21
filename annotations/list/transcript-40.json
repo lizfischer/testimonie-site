@@ -1,0 +1,266 @@
+{	
+	@context: "http://www.shared-canvas.org/ns/context.json",
+	@id: "annotations/list/transcript-40.json",
+	@type: "sc:AnnotationList",
+	resources: [		
+		{
+			"@id": "0",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "1",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "<i>In die sancto Pascæ.</i>",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#988,276,548,80"
+		},
+		{
+			"@id": "2",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "3",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "MEn ða leofostan.",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#952,372,776,100"
+		},
+		{
+			"@id": "4",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "5",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gelome eow is ge-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#1068,480,660,120"
+		},
+		{
+			"@id": "6",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "7",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "sæd ymbe unes hæ-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#1072,592,660,120"
+		},
+		{
+			"@id": "8",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "9",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "lendes æriste. hu he on ði-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,688,936,120"
+		},
+		{
+			"@id": "10",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "11",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "sum andeweardan dæge æf-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#812,792,936,120"
+		},
+		{
+			"@id": "12",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "13",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ter his ðroqunge mihtig-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#816,884,936,120"
+		},
+		{
+			"@id": "14",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "15",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "lice of deaþe aras; Nu",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,992,936,120"
+		},
+		{
+			"@id": "16",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "17",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "wille we eow geopenian ðurh",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1092,936,120"
+		},
+		{
+			"@id": "18",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "19",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Godes gife be ðam halgan",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1200,936,124"
+		},
+		{
+			"@id": "20",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "21",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "husle ðe ge nu togan sce-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1312,936,120"
+		},
+		{
+			"@id": "22",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "23",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "olon. & gewissian eowr and-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1412,936,112"
+		},
+		{
+			"@id": "24",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "25",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gyt ymbe ðære gerynu.",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1528,936,120"
+		},
+		{
+			"@id": "26",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "27",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ægþer ge æfter þære ealdan",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1620,936,116"
+		},
+		{
+			"@id": "28",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "29",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gecyþnysse. ge æfter þære",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1724,936,120"
+		},
+		{
+			"@id": "30",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "31",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "niwan. ðylæs ðe ænig tweo-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1828,936,116"
+		},
+		{
+			"@id": "32",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "33",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "nunge eow derian mæge be",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,1940,936,112"
+		},
+		{
+			"@id": "34",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "35",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "þam liflicū gereorde; se æl-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,2024,936,124"
+		},
+		{
+			"@id": "36",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "37",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "mihtiga God bebead Moyses",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#820,2136,936,116"
+		},
+		{
+			"@id": "38",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "39",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ðam",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_40#1572,2224,184,112"
+		}]
+}
