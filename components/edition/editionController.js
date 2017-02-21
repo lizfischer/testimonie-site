@@ -8,7 +8,7 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
         $scope.main.title = 'Edition';
         $scope.main.sideNav = [
             {label:"Read", link:"edition/read/40"},
-            {label:"View <coming soon>", link:"edition/object"}
+            {label:"View", link:"edition/object"}
         ];
 
         $scope.read = {};
@@ -62,7 +62,7 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
             });
         });
 
-        
+
         function getCoords(purl){
             var coords = {};
             var split = purl.split('#');
