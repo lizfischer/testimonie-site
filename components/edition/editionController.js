@@ -49,7 +49,6 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
                     leftTranscript.push({text:text, coords:coords, lang:lang});
                 }
                 var modern = annotations.modern;
-                console.log(modern)
                 for (var i = 0; i < modern.length; i++) {
                     var coords = getCoords(modern[i]["on"]);
                     var text = modern[i]["resource"]["chars"];

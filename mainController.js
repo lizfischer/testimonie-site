@@ -43,7 +43,7 @@ testimonieApp.config(['$routeProvider', '$locationProvider',
             controller: 'HomeController'
         }).
         otherwise({
-            redirectTo: '/home',
+            redirectTo: '/edition/read/40',
         });
 
     }
