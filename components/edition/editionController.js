@@ -37,7 +37,6 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
         Page.get({pg: $routeParams.pg}, {}, function(annotations){
             var leftTranscript = [];
             var leftModern = [];
-        console.log(annotations)
             var transcript = annotations.transcript;
             for (var i = 0; i < transcript.length; i++) {
                 var coords = getCoords(transcript[i]["on"]);
@@ -64,8 +63,8 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
             var split = purl.split('#');
             split = split[1].split(',');
             var img = document.getElementById('pageLeft');
-            var imgWidth = img.clientWidth/1981;
-            coords.x = (parseInt(split[0])*imgWidth);
+            var imgWidth = img.clientWidth/1981*2;
+            coords.x = parseInt(split[0])*imgWidth;
             coords.y = parseInt(split[1])*imgWidth;
             coords.w = parseInt(split[2])*imgWidth;
             coords.h = parseInt(split[3])*imgWidth;
