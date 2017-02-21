@@ -1,0 +1,23 @@
+<div id="readContainer">
+    <h1>Read</h1>
+    <div id="controls">
+        <md-switch ng-model="read.viewTranscript" aria-label="Switch 1" md-no-ink>Transcription</md-switch>
+        <md-switch ng-model="read.viewModern" aria-label="Switch 1" md-no-ink>Modernization</md-switch>
+    </div>
+
+    <div id="viewer" flex-none>
+        <div class="page" id="left">
+            <img src={{read.left}} id="pageLeft">
+            <div class="text" ng-if="read.viewTranscript">
+                <span ng-repeat="a in read.leftText" style="top:{{a.coords.y}}px; left:{{a.coords.x}}px; width:"
+                      class="{{a.lang}}">{{a.text}}</span>
+            </div>
+        </div>
+        <div class="page" id="right">
+            <img src="{{read.right}}" id="pageRight">
+            <div class="text">
+
+            </div>
+        </div>
+    </div>
+</div>

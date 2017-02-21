@@ -34,7 +34,7 @@ testimonieApp.config(['$routeProvider', '$locationProvider',
             templateUrl: 'components/edition/introTemplate.html',
             controller: 'EditionController'
         }).
-        when('/edition/read', {
+        when('/edition/read/:pg', {
             templateUrl: 'components/edition/readTemplate.html',
             controller: 'EditionController'
         }).
@@ -60,6 +60,12 @@ testimonieApp.factory('About', ['$resource', function ($resource) {
 
 testimonieApp.factory('Edition', ['$resource', function ($resource) {
     return $resource('/edition');
+}]);
+
+testimonieApp.factory('Page', ['$resource', function ($resource) {
+    return $resource('/edition/read/:pg', {pg:'@pg'}, {
+        get: {method:'GET', params:{}, isArray:true}
+    });
 }]);
 
 /*******************
