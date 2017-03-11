@@ -21,10 +21,11 @@
     <script src="theme.js"></script>
     <link rel="stylesheet" type="text/css" href="main.css" />
     <link rel="stylesheet" type="text/css" href="components/edition/read.css" />
-
+    <link rel="stylesheet" type="text/css" href="components/home/home.css"/ >
 
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
-
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+          rel="stylesheet">
 
     <script src="components/home/homeController.js"></script>
     <script src="components/about/aboutController.js"></script>
@@ -41,24 +42,42 @@
 
     <div class="container" flex layout="column">
 
-        <md-nav-bar md-no-ink nav-bar-aria-label="navigation links" md-selected-nav-item="main.currentNavItem">
-            <md-nav-item md-nav-click="main.goto('home')" name="home">Home</md-nav-item>
-            <md-nav-item md-nav-click="main.goto('about')" name="about">About</md-nav-item>
-            <md-nav-item md-nav-click="main.goto('front')" name="front">Front Matter</md-nav-item>
-            <md-nav-item md-nav-click="main.goto('edition/intro')" name="edition">Edition</md-nav-item>
-        </md-nav-bar>
+        <div id="nav-bar-container">
+            <md-nav-bar md-no-ink nav-bar-aria-label="navigation links" md-selected-nav-item="main.currentNavItem">
+                <md-nav-item md-nav-click="main.goto('home')" name="home">Home</md-nav-item>
+                <!--<md-nav-item md-nav-click="main.goto('about')" name="about">About</md-nav-item>-->
+                <md-nav-item md-nav-click="main.goto('front')" name="front">Front Matter</md-nav-item>
+                <md-nav-item md-nav-click="main.goto('edition/intro')" name="edition">Edition</md-nav-item>
+            </md-nav-bar>
+        </div>
 
         <div flex layout="row">
-            <md-sidenav md-is-locked-open="true" ng-if="main.sideNav">
+            <md-sidenav md-is-locked-open="true" ng-if="main.sideNav"  >
                 <md-list>
-                    <md-list-item ng-repeat="item in main.sideNav" >
-                        <div ng-click="main.goto(item.link)">{{item.label}}</div>
+                    <md-list-item ng-repeat="item in main.sideNav" ng-click="main.sidenavClick(item)">
+
+                        <div ng-if="!item.pages">{{item.label}}</div>
+
+                        <div ng-if="item.pages" flex layout="column">
+                            <div>{{item.label}}
+                                <i ng-if="!item.expanded" class="material-icons">&#xE5CF;</i>
+                                <i ng-if="item.expanded" class="material-icons">&#xE5CE;</i></div>
+
+                            <md-list ng-if="item.pages && item.expanded">
+                                <md-list-item ng-repeat="subitem in item.pages" ng-click="main.goto(subitem.link)">
+                                    <div>{{subitem.label}}</div>
+                                </md-list-item>
+                            </md-list>
+                        </div>
+
                     </md-list-item>
                 </md-list>
             </md-sidenav>
+
             <md-content flex id="testimonie-content">
                 <div ng-view></div>
             </md-content>
+
         </div>
     </div>
 

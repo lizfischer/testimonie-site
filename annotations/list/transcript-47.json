@@ -1,0 +1,305 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-47.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "288",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "289",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#388,260,680,100"
+		},
+		{
+			"@id": "290",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "291",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "23",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#1108,260,100,100"
+		},
+		{
+			"@id": "292",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "293",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Moyſes. Keepe this day in",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,372,932,112"
+		},
+		{
+			"@id": "294",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "295",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "your remembraunce, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,476,932,112"
+		},
+		{
+			"@id": "296",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "297",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "holde it a greate feaſt in",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,576,932,112"
+		},
+		{
+			"@id": "298",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "299",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "your kinredes with a per-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,680,932,108"
+		},
+		{
+			"@id": "300",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "301",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "petuall obſeruation, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,780,932,112"
+		},
+		{
+			"@id": "302",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "303",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "eat vnleavened bread al-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,880,932,104"
+		},
+		{
+			"@id": "304",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "305",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "wayes ſeven dayes at thys",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,988,932,116"
+		},
+		{
+			"@id": "306",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "307",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "feaſte. After thys deede",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1092,932,112"
+		},
+		{
+			"@id": "308",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "309",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "God ledde the people of Iſ-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1188,932,112"
+		},
+		{
+			"@id": "310",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "311",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "raell ouer y<sup>e</sup> redde ſea, w<sup>t</sup> dry",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1280,932,120"
+		},
+		{
+			"@id": "312",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "313",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "foote, and drowned therein",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1392,932,120"
+		},
+		{
+			"@id": "314",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "315",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Pharao, & al his army toge",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1492,932,120"
+		},
+		{
+			"@id": "316",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "317",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ther w<sup>t</sup> their poßeßions, &",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1604,932,112"
+		},
+		{
+			"@id": "318",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "319",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fedde afterward y<sup>e</sup> Iſraelits",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1700,932,120"
+		},
+		{
+			"@id": "320",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "321",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fortie yeares with heauenlye",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1800,932,116"
+		},
+		{
+			"@id": "322",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "323",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "foode, & gaue thē water out",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,1904,932,120"
+		},
+		{
+			"@id": "324",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "325",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "of the hard rocke, vntil they",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,2020,932,104"
+		},
+		{
+			"@id": "326",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "327",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "came to the promiſed land.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#304,2100,932,120"
+		},
+		{
+			"@id": "328",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "329",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Part",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#1032,2208,204,108"
+		},
+		{
+			"@id": "330",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "331",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Exod. 17.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#1236,2024,316,100"
+		},
+		{
+			"@id": "332",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "333",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Exod. 14.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_47#1236,1356,316,116"
+		}]
+}

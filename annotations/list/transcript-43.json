@@ -1,0 +1,279 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-43.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "124",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "125",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#388,248,696,104"
+		},
+		{
+			"@id": "126",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "127",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "21",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#1108,248,108,104"
+		},
+		{
+			"@id": "128",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "129",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "his captaine in y<sup>e</sup> land of Æ-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#316,348,928,120"
+		},
+		{
+			"@id": "130",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "131",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gypt, to commaunde y<sup>e</sup> peo-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#316,464,928,116"
+		},
+		{
+			"@id": "132",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "133",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ple of Iſraell to take for e-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#316,568,928,116"
+		},
+		{
+			"@id": "134",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "135",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "uery familye a lambe of one",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#316,672,928,120"
+		},
+		{
+			"@id": "136",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "137",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "yeare old, the night they de-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#316,776,928,112"
+		},
+		{
+			"@id": "138",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "139",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "parted out of y<sup>e</sup> country to ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#316,880,928,112"
+		},
+		{
+			"@id": "140",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "141",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "y<sup>e</sup> land of promiſe, & to offer",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,964,956,124"
+		},
+		{
+			"@id": "142",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "143",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "y<sup>t</sup> lambe to God, & after to ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1064,956,128"
+		},
+		{
+			"@id": "144",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "145",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "kill it, & to make y<sup>e</sup> ſigne of",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1176,956,116"
+		},
+		{
+			"@id": "146",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "147",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "y<sup>e</sup> croße, with y<sup>e</sup> lābes bloud",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1280,956,124"
+		},
+		{
+			"@id": "148",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "149",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "vpon the ſide poſtes, & the",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1376,956,116"
+		},
+		{
+			"@id": "150",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "151",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "vpper poſte of their dore, &",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1484,956,124"
+		},
+		{
+			"@id": "152",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "153",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "afterward to eate y<sup>e</sup> lambes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1588,956,104"
+		},
+		{
+			"@id": "154",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "155",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fleſh roſted, & vnleauened",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1688,956,112"
+		},
+		{
+			"@id": "156",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "157",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bread w<sup>t</sup> wilde lettiße. God",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1784,956,120"
+		},
+		{
+			"@id": "158",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "159",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſayth vnto Moyſes Eate of y<sup>e</sup>",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#296,1892,956,112"
+		},
+		{
+			"@id": "160",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "161",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "lābe nothing raw, nor ſoddē",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#300,1996,924,104"
+		},
+		{
+			"@id": "162",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "163",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "in water, but roſted w<sup>t</sup> fire.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#300,2100,924,104"
+		},
+		{
+			"@id": "164",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "165",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Eate",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_43#1000,2188,224,112"
+		}]
+}

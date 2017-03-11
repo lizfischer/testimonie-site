@@ -1,0 +1,279 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-59.json",
+	"@type": "sc:AnnotationList",
+	"resources": [
+		{
+			"@id": "802",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "803",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#388,272,672,88"
+		},
+		{
+			"@id": "804",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "805",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "29",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#1104,272,88,88"
+		},
+		{
+			"@id": "806",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "807",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bread, he liueth for euer.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,360,908,104"
+		},
+		{
+			"@id": "808",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "809",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "He bleſſed bread before his",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,464,908,112"
+		},
+		{
+			"@id": "810",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "811",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſuffering, and deuided it to",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,576,912,108"
+		},
+		{
+			"@id": "812",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "813",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "his diſciples, thus ſaying.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,684,912,96"
+		},
+		{
+			"@id": "814",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "815",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Eate thys bread, it is my bo-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,780,912,100"
+		},
+		{
+			"@id": "816",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "817",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "dy, & do this in my remem-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,880,912,104"
+		},
+		{
+			"@id": "818",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "819",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "braunce. Alſo he bleſſed",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,984,912,104"
+		},
+		{
+			"@id": "820",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "821",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "wyne in one cuppe, and ſayd.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1088,912,96"
+		},
+		{
+			"@id": "822",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "823",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Drinke ye all of thys. Thys",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1184,912,108"
+		},
+		{
+			"@id": "824",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "825",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "is my bloude that is ſhedde",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1292,912,96"
+		},
+		{
+			"@id": "826",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "827",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "for many, in forgeueneſſe of ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1388,944,104"
+		},
+		{
+			"@id": "828",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "829",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſinnes. The Apoſtles dyd as",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1492,944,112"
+		},
+		{
+			"@id": "830",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "831",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Chriſt commaunded, that is,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1604,944,100"
+		},
+		{
+			"@id": "832",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "833",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "they bleſſed bread & wyne",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1704,944,100"
+		},
+		{
+			"@id": "834",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "835",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "to houſell agayne afterward",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1804,944,108"
+		},
+		{
+			"@id": "836",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "837",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "in hys remembraunce. E-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,1900,944,108"
+		},
+		{
+			"@id": "838",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "839",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "uen ſo alſo ſince their depar-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,2008,944,100"
+		},
+		{
+			"@id": "840",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "841",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ture all prieſtes by Chriſtes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#336,2108,944,104"
+		},
+		{
+			"@id": "842",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "843",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "com-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_59#1084,2212,196,88"
+		}]
+}

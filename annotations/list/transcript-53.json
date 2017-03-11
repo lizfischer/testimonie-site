@@ -1,0 +1,305 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-53.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "546",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "547",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#428,268,692,84"
+		},
+		{
+			"@id": "548",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "549",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "26",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#1172,268,116,84"
+		},
+		{
+			"@id": "550",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "551",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "age of thys world. This age",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,360,952,116"
+		},
+		{
+			"@id": "552",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "553",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "of thys corruptible worlde",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,476,952,100"
+		},
+		{
+			"@id": "554",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "555",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "is reckened vnto the euening",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,576,952,108"
+		},
+		{
+			"@id": "556",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "557",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "They marked with the lābes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,684,952,92"
+		},
+		{
+			"@id": "558",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "559",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bloude vpon the doores, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,776,952,108"
+		},
+		{
+			"@id": "560",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "561",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "the vpper poſtes* Tau, that",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,884,952,108"
+		},
+		{
+			"@id": "562",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "563",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "is the ſigne of the croſſe, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,992,952,104"
+		},
+		{
+			"@id": "564",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "565",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "were ſo defended from the",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1096,952,100"
+		},
+		{
+			"@id": "566",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "567",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "angell that killed the Æ-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1196,952,100"
+		},
+		{
+			"@id": "568",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "569",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gyptians firſt borne childe.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1296,952,96"
+		},
+		{
+			"@id": "570",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "571",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "And we * ought to marke",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1392,952,108"
+		},
+		{
+			"@id": "572",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "573",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "our foreheades, and our bo-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1500,924,92"
+		},
+		{
+			"@id": "574",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "575",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "dyes with y<sup>e</sup> tokē of Chriſtes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1584,924,108"
+		},
+		{
+			"@id": "576",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "577",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "roode, that we may be alſo",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1692,924,108"
+		},
+		{
+			"@id": "578",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "579",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "deliuered from deſtruction,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1800,924,104"
+		},
+		{
+			"@id": "580",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "581",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "when we ſhall be marked",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,1904,924,100"
+		},
+		{
+			"@id": "582",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "583",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "both on forehead, and alſo in",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,2004,924,100"
+		},
+		{
+			"@id": "584",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "585",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "harte with the bloud of our",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#336,2104,924,108"
+		},
+		{
+			"@id": "586",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "587",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Lordes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#976,2212,284,96"
+		},
+		{
+			"@id": "588",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "589",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "D.ij.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#660,2212,176,104"
+		},
+		{
+			"@id": "590",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "591",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "*No ſuch ſigne com-manded by God in that place of ſcrip-ture,but it was the bloud that God dyd loke vpon. Exod 12. *Vnder-ſtand thys as that of S. Paule. Ephe.2. Chriſt re-conciled both to God in one body through hys croſſe.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_53#1260,536,296,1816"
+		}]
+}

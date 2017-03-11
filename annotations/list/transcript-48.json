@@ -1,0 +1,253 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-48.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "334",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "335",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Sume ðas race ƿe habbaþ ge-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,356,932,120"
+		},
+		{
+			"@id": "336",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "337",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "trahtnod on oþre stoƿe.",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,464,932,116"
+		},
+		{
+			"@id": "338",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "339",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "sume ƿe ƿyllaþ nu geopenian.",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,580,932,100"
+		},
+		{
+			"@id": "340",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "341",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ꝥ ðe belimpþ to ðam halgan",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,660,928,120"
+		},
+		{
+			"@id": "342",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "343",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "husle; Cristene menn ne-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,764,928,116"
+		},
+		{
+			"@id": "344",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "345",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "moton healdan nu ða ealdan",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,868,928,104"
+		},
+		{
+			"@id": "346",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "347",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "æ lichamlice . ac him gedafe-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,976,928,116"
+		},
+		{
+			"@id": "348",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "349",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "naþ ꝥ hi cunnon hƿæt heo",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1072,928,116"
+		},
+		{
+			"@id": "350",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "351",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gastlicetacniel ꝥ unscæþþie",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1184,928,112"
+		},
+		{
+			"@id": "352",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "353",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "lamb ðe se ealde Israhela ða",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1284,928,112"
+		},
+		{
+			"@id": "354",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "355",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ofsnaþ . hæfde getacnunge",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1388,928,120"
+		},
+		{
+			"@id": "356",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "357",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "æfter gastlicum andgyte",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1504,928,100"
+		},
+		{
+			"@id": "358",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "359",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Cristes ðroƿunge se ðe",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1596,928,100"
+		},
+		{
+			"@id": "360",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "361",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "unscæþþig for ure alysed-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1704,928,108"
+		},
+		{
+			"@id": "362",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "363",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "nysse his halige blod ageat;",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1808,928,100"
+		},
+		{
+			"@id": "364",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "365",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Be ðam singaþ Godes ðeoƿ-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,1896,928,124"
+		},
+		{
+			"@id": "366",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "367",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "as æt ælcere mæssan. agnus",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,2012,928,100"
+		},
+		{
+			"@id": "368",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "369",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "dei qui tollis peccata mundi",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#776,2108,928,112"
+		},
+		{
+			"@id": "370",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "371",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "miserere",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_48#1360,2212,344,104"
+		}]
+}

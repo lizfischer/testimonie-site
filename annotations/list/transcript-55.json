@@ -1,0 +1,292 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-55.json",
+	"@type": "sc:AnnotationList",
+	"resources": [
+		{
+			"@id": "632",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "633",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#404,284,684,92"
+		},
+		{
+			"@id": "634",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "635",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "27",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#1116,284,96,92"
+		},
+		{
+			"@id": "636",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "637",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Lordes ſuffering. Thoſe",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,388,932,108"
+		},
+		{
+			"@id": "638",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "639",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Iſraelites eate the lambes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,496,932,96"
+		},
+		{
+			"@id": "640",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "641",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fleſhe at their Eaſter time,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,592,932,116"
+		},
+		{
+			"@id": "642",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "643",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "when they were deliuered,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,708,932,104"
+		},
+		{
+			"@id": "644",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "645",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "and we receiue ghoſtlye,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,812,932,104"
+		},
+		{
+			"@id": "646",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "647",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Chriſt bodye, and drinke",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,916,932,92"
+		},
+		{
+			"@id": "648",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "649",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "his bloude, when we receaue",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1008,932,104"
+		},
+		{
+			"@id": "650",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "651",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "with true beliefe that holy",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1112,932,100"
+		},
+		{
+			"@id": "652",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "653",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "houſell. That tyme they",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1212,932,104"
+		},
+		{
+			"@id": "654",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "655",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "kept with them at Eaſter",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1316,932,100"
+		},
+		{
+			"@id": "656",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "657",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſeuen dayes with great wor-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1416,932,112"
+		},
+		{
+			"@id": "658",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "659",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſhippe, when they were",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1528,932,92"
+		},
+		{
+			"@id": "660",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "661",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "deliuered frō Pharao, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1620,932,104"
+		},
+		{
+			"@id": "662",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "663",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "went from that land. So alſo",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1724,932,104"
+		},
+		{
+			"@id": "664",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "665",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Chriſtian men kepe Chriſtes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1828,932,100"
+		},
+		{
+			"@id": "666",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "667",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "reſurrectiō at y<sup>e</sup> time of Ea-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,1928,932,104"
+		},
+		{
+			"@id": "668",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "669",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſter theſe vij. dayes, becauſe",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,2032,932,96"
+		},
+		{
+			"@id": "670",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "671",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "through hys ſuffering and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#340,2128,932,112"
+		},
+		{
+			"@id": "672",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "673",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "riſing",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#1080,2232,192,124"
+		},
+		{
+			"@id": "674",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "675",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "D.iij.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_55#728,2232,220,124"
+		}]
+}

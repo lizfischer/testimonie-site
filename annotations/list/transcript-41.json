@@ -1,0 +1,293 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-41.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "40",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "41",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#376,256,700,88"
+		},
+		{
+			"@id": "42",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "43",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "20",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#1116,260,124,80"
+		},
+		{
+			"@id": "44",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "45",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "MEn beloued, it hath",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#536,360,716,92"
+		},
+		{
+			"@id": "46",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "47",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bene often ſayd vn-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#536,456,716,112"
+		},
+		{
+			"@id": "48",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "49",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "to you aboute our",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#596,568,656,112"
+		},
+		{
+			"@id": "50",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "51",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Sauiours reſurrection, how",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,656,932,128"
+		},
+		{
+			"@id": "52",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "53",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "he on this preſent day after",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,760,932,128"
+		},
+		{
+			"@id": "54",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "55",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "hys ſuffering, mightely roſe",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,868,932,124"
+		},
+		{
+			"@id": "56",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "57",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "from death. Now will we",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,980,932,104"
+		},
+		{
+			"@id": "58",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "59",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "open vnto you through Gods",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1072,932,120"
+		},
+		{
+			"@id": "60",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "61",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "grace, of the holy houſell,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1176,932,116"
+		},
+		{
+			"@id": "62",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "63",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "whiche ye ſhoulde nowe goe",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1276,932,120"
+		},
+		{
+			"@id": "64",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "65",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "vnto, and inſtructe your",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1384,932,112"
+		},
+		{
+			"@id": "66",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "67",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "vnderſtandyng aboute thys",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1484,932,112"
+		},
+		{
+			"@id": "68",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "69",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "myſterie, both after the olde",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1588,932,116"
+		},
+		{
+			"@id": "70",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "71",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "couenaunte, and alſo af-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1684,932,124"
+		},
+		{
+			"@id": "72",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "73",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ter the newe, that no doub-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1792,932,104"
+		},
+		{
+			"@id": "74",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "75",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ting may trouble you about",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1892,932,116"
+		},
+		{
+			"@id": "76",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "77",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "thys liuelye foode. The al-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,1996,932,108"
+		},
+		{
+			"@id": "78",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "79",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "myghtie God badde Moyſes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#320,2092,932,116"
+		},
+		{
+			"@id": "80",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "81",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "his",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#1116,2200,140,120"
+		},
+		{
+			"@id": "82",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "83",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "C.iiij.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_41#768,2200,252,120"
+		}
+	]}
+}

@@ -4,5 +4,5 @@
 testimonieApp.config(function ($mdThemingProvider) {
     $mdThemingProvider.theme('default')
         .primaryPalette('brown')
-        .accentPalette('deep-orange')
+        .accentPalette('grey')
 });

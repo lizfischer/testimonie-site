@@ -6,6 +6,10 @@
 body {
     font-family: "Junicode";
 }
+#site-title{
+    font-family: Junicode;
+    font-weight: normal;
+}
 
 md-toolbar{
     overflow: hidden;
@@ -17,23 +21,35 @@ md-toolbar{
     height: 100%;
 }
 
-md-nav-bar{
+#nav-bar-container{
     width:100%;
     margin: auto;
-}
+    background-color: #D7CCC8;
+} .md-nav-bar {
+      width:80%;
+      margin:auto;
+  }
 
 md-content{
     margin: 0 auto;
     padding: 0 5%;
+    width: 80%;
 }
 
 md-sidenav {
     width: 20%;
-    /*min-width: 150px;
-    max-width: 250px;*/
-}
+    padding-top: 50px;
+    min-width: 200px;
+    /*max-width: 250px;*/
+}md-sidenav md-list{
+     padding: 0 10%;
+ }  md-sidenav md-list-item div {
+    cursor: pointer;
+ } md-sidenav md-list-item:hover{
+        background-color: rgba(226,228,228,.5);
+    }
 
 .container{
-    width: 80%;
+    width: 100%;
     margin:auto;
 }

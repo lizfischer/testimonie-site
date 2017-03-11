@@ -1,0 +1,266 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-54.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "592",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "593",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "In die Sancto Paſcæ.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#952,260,552,96"
+		},
+		{
+			"@id": "594",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "595",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "drihtenlican ðroƿunge; ꝥ",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,372,940,100"
+		},
+		{
+			"@id": "596",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "597",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Israhela folc æt ðæs lambes",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,472,940,120"
+		},
+		{
+			"@id": "598",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "599",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "flæsc on heora easter tide",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,592,940,92"
+		},
+		{
+			"@id": "600",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "601",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ða ða hi ahredde ƿurdon. ⁊",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,684,940,108"
+		},
+		{
+			"@id": "602",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "603",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ƿe þicgaþ nu gastlice cristes",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,792,940,108"
+		},
+		{
+			"@id": "604",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "605",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "lichaman. ⁊ his blod drincaþ.",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,900,940,104"
+		},
+		{
+			"@id": "606",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "607",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ðonne ƿe mid soþum gelea-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,1004,940,96"
+		},
+		{
+			"@id": "608",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "609",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fan ꝥ halige husel ðicgaþ;",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,1100,940,104"
+		},
+		{
+			"@id": "610",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "611",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Ðone timan hi heoldon him",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,1204,940,96"
+		},
+		{
+			"@id": "612",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "613",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "to easter tide scofan dagas",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#760,1300,940,116"
+		},
+		{
+			"@id": "614",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "615",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "mid micclum ƿurþmynte",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,1416,940,104"
+		},
+		{
+			"@id": "616",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "617",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ðe hi ahredde ƿurdon ƿiþ",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,1520,940,100"
+		},
+		{
+			"@id": "618",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "619",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Pharao. ⁊ of ðam earde fer-",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,1620,940,108"
+		},
+		{
+			"@id": "620",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "621",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "don. sƿa eac cristene menn",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,1728,940,96"
+		},
+		{
+			"@id": "622",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "623",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "healdaþ Cristes ærist ur to",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,1824,940,108"
+		},
+		{
+			"@id": "624",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "625",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "easter tide ðæs seofan",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,1932,940,88"
+		},
+		{
+			"@id": "626",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "627",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "dagas. forþan ðe ƿe sint ",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,2020,940,116"
+		},
+		{
+			"@id": "628",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "629",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ðurh his ðroƿunge. and",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#772,2136,940,108"
+		},
+		{
+			"@id": "630",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "631",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ærist",
+				"language": "ang"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_54#1492,2240,224,104"
+		}]
+}

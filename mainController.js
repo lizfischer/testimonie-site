@@ -18,7 +18,6 @@ testimonieApp.run(function($rootScope, $location, $anchorScroll, $timeout) {
     });
 });
 
-
 testimonieApp.config(['$routeProvider', '$locationProvider',
     function ($routeProvider, $locationProvider) {
         $routeProvider.
@@ -30,12 +29,32 @@ testimonieApp.config(['$routeProvider', '$locationProvider',
             templateUrl: 'components/front/frontTemplate.html',
             controller: 'FrontController'
         }).
+        when('/front/intro', {
+            templateUrl: 'components/front/intro.html',
+            controller: 'FrontController'
+        }).
+        when('/front/editorial-policy', {
+            templateUrl: 'components/front/editTemplate.html',
+            controller: 'FrontController'
+        }).
+        when('/front/bibliography', {
+            templateUrl: 'components/front/bibliographyTemplate.html',
+            controller: 'FrontController'
+        }).
+        when('/front/cite', {
+            templateUrl: 'components/front/citeTemplate.html',
+            controller: 'FrontController'
+        }).
         when('/edition/intro', {
             templateUrl: 'components/edition/introTemplate.html',
             controller: 'EditionController'
         }).
         when('/edition/read/:pg', {
             templateUrl: 'components/edition/readTemplate.html',
+            controller: 'EditionController'
+        }).
+        when('/edition/view', {
+            templateUrl: 'components/edition/viewTemplate.html',
             controller: 'EditionController'
         }).
         when('/home', {
@@ -81,5 +100,10 @@ testimonieApp.controller('MainController', ['$scope', '$rootScope', '$location',
 
         $scope.main.goto=function (page) {
             $location.path("/"+page)
+        };
+        $scope.main.sidenavClick=function(item){
+            if (!item.pages) $scope.main.goto(item.link);
+            else item.expanded = !item.expanded;
         }
+        
     }]);

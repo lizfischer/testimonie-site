@@ -8,7 +8,7 @@ testimonieApp.controller('EditionController', ['$scope', '$routeParams', 'Page',
         $scope.main.title = 'Edition';
         $scope.main.sideNav = [
             {label:"Read", link:"edition/read/40"},
-            {label:"View", link:"edition/object"}
+            {label:"View", link:"edition/view"}
         ];
 
         $scope.read = {};

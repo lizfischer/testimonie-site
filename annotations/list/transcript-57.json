@@ -1,0 +1,305 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-57.json",
+	"@type": "sc:AnnotationList",
+	"resources": [
+		{
+			"@id": "716",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "717",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#412,276,660,88"
+		},
+		{
+			"@id": "718",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "719",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "28",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#1136,276,116,88"
+		},
+		{
+			"@id": "720",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "721",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "riſing we be deliuered, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,372,932,132"
+		},
+		{
+			"@id": "722",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "723",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "be made cleane by goyng to",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,488,932,104"
+		},
+		{
+			"@id": "724",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "725",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "this holy houſell, as Chriſt",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,592,932,100"
+		},
+		{
+			"@id": "726",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "727",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſayth in his ghoſpell. Verely,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,692,932,108"
+		},
+		{
+			"@id": "728",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "729",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "verely, I ſaye vnto you, ye",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,800,932,100"
+		},
+		{
+			"@id": "730",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "731",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "haue no life in you except ye",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,900,932,100"
+		},
+		{
+			"@id": "732",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "733",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "eat my fleſh, & drinke my",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1000,932,104"
+		},
+		{
+			"@id": "734",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "735",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bloude. He y<sup>e</sup> eateth my fleſh",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1104,932,100"
+		},
+		{
+			"@id": "736",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "737",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "& drinketh my bloud, aby-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1204,932,100"
+		},
+		{
+			"@id": "738",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "739",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "deth in me, & I in him, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1304,932,108"
+		},
+		{
+			"@id": "740",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "741",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "hath y<sup>t</sup> euerlaſting life: & I",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1404,932,112"
+		},
+		{
+			"@id": "742",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "743",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſhall raiſe him vp in y<sup>e</sup> laſte",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1508,932,104"
+		},
+		{
+			"@id": "744",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "745",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "day. I am y<sup>e</sup> liuely bread, that",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1612,932,100"
+		},
+		{
+			"@id": "746",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "747",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "came down frō heauē, not ſo",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1712,932,108"
+		},
+		{
+			"@id": "748",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "749",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "as your forefathers eate that",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1820,932,96"
+		},
+		{
+			"@id": "750",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "751",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "heauenlye bread in the wil-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,1916,932,104"
+		},
+		{
+			"@id": "752",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "753",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "derneſſe, and afterward",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,2020,932,108"
+		},
+		{
+			"@id": "754",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "755",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "dyed. He that eateth thys",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#356,2128,932,96"
+		},
+		{
+			"@id": "756",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "757",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bread",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#1068,2224,220,92"
+		},
+		{
+			"@id": "758",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "759",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Diiij.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#804,2224,264,92"
+		},
+		{
+			"@id": "760",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "761",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Iohn.6.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_57#1292,1656,220,92"
+		}]
+}

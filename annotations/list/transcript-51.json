@@ -1,0 +1,344 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-51.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "454",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "455",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#400,252,708,104"
+		},
+		{
+			"@id": "456",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "457",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "24",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#1108,252,156,104"
+		},
+		{
+			"@id": "458",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "459",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "miſerere nobis.",
+				"language": "lat"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#328,356,424,96"
+		},
+		{
+			"@id": "460",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "461",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "That is in our",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#752,356,512,96"
+		},
+		{
+			"@id": "462",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "463",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſpeech, Thou lambe of God",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#320,452,944,120"
+		},
+		{
+			"@id": "464",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "465",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "that takeſt away y<sup>e</sup> ſinnes of",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#320,572,944,104"
+		},
+		{
+			"@id": "466",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "467",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "the world haue mercy vpon",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#320,676,944,104"
+		},
+		{
+			"@id": "468",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "469",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "vs. Thoſe Iſraelites were",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#320,772,944,104"
+		},
+		{
+			"@id": "470",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "471",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "deliuered from that ſodaine",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#320,876,944,108"
+		},
+		{
+			"@id": "472",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "473",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "death, & frō Pharaos bon-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#320,984,944,96"
+		},
+		{
+			"@id": "474",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "475",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "dage by the lambes offringe",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1076,920,116"
+		},
+		{
+			"@id": "476",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "477",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "which ſignified Chriſtes ſuf-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1184,920,116"
+		},
+		{
+			"@id": "478",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "479",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fering: through which we be",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1284,920,100"
+		},
+		{
+			"@id": "480",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "481",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "deliuered from euerlaſting",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1384,920,108"
+		},
+		{
+			"@id": "482",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "483",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "death, & frō the deuils cruel",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1492,920,100"
+		},
+		{
+			"@id": "484",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "485",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "raigne, if we rightly beleue",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1592,920,108"
+		},
+		{
+			"@id": "486",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "487",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "in the true redemer of the",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1700,920,108"
+		},
+		{
+			"@id": "488",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "489",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "whole world Chriſt the Sa-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1792,920,100"
+		},
+		{
+			"@id": "490",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "491",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "uiour. That lambe was offe-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,1892,920,112"
+		},
+		{
+			"@id": "492",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "493",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "red in the euening and our",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,2004,920,108"
+		},
+		{
+			"@id": "494",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "495",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Saniour ſuffered in the ſixt",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#324,2108,920,108"
+		},
+		{
+			"@id": "496",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "497",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "age",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#1092,2216,152,120"
+		},
+		{
+			"@id": "498",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "499",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "D.j.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#732,2216,200,104"
+		},
+		{
+			"@id": "500",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "501",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Math.27.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#1256,1164,268,100"
+		},
+		{
+			"@id": "502",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "503",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Marc.15.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#1256,1252,268,88"
+		},
+		{
+			"@id": "504",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "505",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Luke.24.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_51#1256,1328,268,80"
+		}]
+}

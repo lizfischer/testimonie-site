@@ -1,0 +1,279 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-45.json",
+	"@type": "sc:AnnotationList",
+	"resources": [	
+		{
+			"@id": "206",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "207",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#412,272,664,100"
+		},
+		{
+			"@id": "208",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "209",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "22",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#1112,272,100,100"
+		},
+		{
+			"@id": "210",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "211",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Eate y<sup>e</sup> head, y<sup>e</sup> feete, and the",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,372,932,116"
+		},
+		{
+			"@id": "212",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "213",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "inwards, & let nothing of ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,476,932,124"
+		},
+		{
+			"@id": "214",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "215",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "it be left vntill y<sup>e</sup> morning: if ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,576,932,116"
+		},
+		{
+			"@id": "216",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "217",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "any thing therof remaine, y<sup>t</sup>",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,676,932,124"
+		},
+		{
+			"@id": "218",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "219",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſhall you burne w<sup>t</sup> fire. Eate",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,776,932,124"
+		},
+		{
+			"@id": "220",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "221",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "it in this wyſe. Gyrde your",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,884,932,116"
+		},
+		{
+			"@id": "222",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "223",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "loynes, & do your ſhoes on",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,992,932,120"
+		},
+		{
+			"@id": "224",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "225",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "your fete, haue you ſtaues in",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,1092,932,116"
+		},
+		{
+			"@id": "226",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "227",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "your hādes, & eat in haſt.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,1196,932,104"
+		},
+		{
+			"@id": "228",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "229",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "This time is y<sup>e</sup> lords paßeo-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,1292,932,120"
+		},
+		{
+			"@id": "230",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "231",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "uer. And ther was ſlain on y<sup>t</sup>",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,1384,932,132"
+		},
+		{
+			"@id": "232",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "233",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "night in euery houſe throgh",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#300,1488,932,132"
+		},
+		{
+			"@id": "234",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "235",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "out Pharaos raigne, the firſt",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#312,1604,940,116"
+		},
+		{
+			"@id": "236",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "237",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "borne child: and Gods people",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#312,1704,940,104"
+		},
+		{
+			"@id": "238",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "239",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "of Iſraell were deliuered frō",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#312,1796,940,116"
+		},
+		{
+			"@id": "240",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "241",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "y<sup>t</sup> ſodeine death through the",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#312,1912,940,104"
+		},
+		{
+			"@id": "242",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "243",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "lābes offring, & his bloudes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#312,2008,940,120"
+		},
+		{
+			"@id": "244",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "245",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "marking. Thē ſaid God vnto",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#312,2116,940,108"
+		},
+		{
+			"@id": "246",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "247",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Moyſes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_45#984,2200,268,132"
+		}]
+}

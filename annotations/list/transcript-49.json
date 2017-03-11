@@ -1,0 +1,279 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-49.json",
+	"@type": "sc:AnnotationList",
+	"resources": [
+		{
+			"@id": "372",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "373",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#372,268,700,96"
+		},
+		{
+			"@id": "374",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "375",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "24",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#1116,268,100,96"
+		},
+		{
+			"@id": "376",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "377",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Part of this ſtory we haue",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,372,928,116"
+		},
+		{
+			"@id": "378",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "379",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "treated of in an other place,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,484,928,108"
+		},
+		{
+			"@id": "380",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "381",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "part we ſhall now declare,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,584,928,104"
+		},
+		{
+			"@id": "382",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "383",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "to witte, y<sup>t</sup> which belongeth ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,684,928,112"
+		},
+		{
+			"@id": "384",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "385",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "to the holy houſell. Chriſtian ",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,792,928,112"
+		},
+		{
+			"@id": "386",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "387",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "men may not now kepe that",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,904,928,100"
+		},
+		{
+			"@id": "388",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "389",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "olde law bodely, but it be-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1004,928,104"
+		},
+		{
+			"@id": "390",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "391",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "houeth them to know, what",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1092,928,108"
+		},
+		{
+			"@id": "392",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "393",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "it ghoſtlye ſignifieth. That",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1192,928,112"
+		},
+		{
+			"@id": "394",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "395",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "innocēt lambe which the old",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1304,928,100"
+		},
+		{
+			"@id": "396",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "397",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Iſraelites did then kill, had",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1404,928,100"
+		},
+		{
+			"@id": "398",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "399",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſignificatiō after ghoſtly vn",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1504,924,104"
+		},
+		{
+			"@id": "400",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "401",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "derſtanding of Chriſtes ſuf-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1608,924,100"
+		},
+		{
+			"@id": "402",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "403",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "fering, who vnguiltie shedde",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1708,924,108"
+		},
+		{
+			"@id": "404",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "405",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "his holy bloude for our re-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1816,924,92"
+		},
+		{
+			"@id": "406",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "407",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "demptiō. Hereof ſing Gods",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,1908,924,112"
+		},
+		{
+			"@id": "408",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "409",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſeruantes at euery maſſe.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,2020,924,100"
+		},
+		{
+			"@id": "410",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "411",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Agnus dei qui tollis peccata mundi",
+				"language": "lat"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#296,2120,924,100"
+		},
+		{
+			"@id": "412",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "413",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "miſerere",
+				"language": "lat"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_49#988,2220,232,100"
+		}]
+}

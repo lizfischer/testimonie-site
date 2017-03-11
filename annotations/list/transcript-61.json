@@ -1,0 +1,305 @@
+{	
+	"@context": "http://www.shared-canvas.org/ns/context.json",
+	"@id": "annotations/list/transcript-61.json",
+	"@type": "sc:AnnotationList",
+	"resources": [
+		{
+			"@id": "884",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "885",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A Sermon on Eaſter day",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#304,288,676,76"
+		},
+		{
+			"@id": "886",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "887",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "30",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#1012,288,120,76"
+		},
+		{
+			"@id": "888",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "889",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "commaundement doe bleſſe",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,376,940,112"
+		},
+		{
+			"@id": "890",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "891",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bread & wine to houſell in",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,488,940,100"
+		},
+		{
+			"@id": "892",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "893",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "hys name w<sup>t</sup> the Apoſtolike",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,588,940,112"
+		},
+		{
+			"@id": "894",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "895",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "bleßing. Now some men haue of-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,700,940,100"
+		},
+		{
+			"@id": "896",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "897",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ten* ſearched & do yet oftē",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,800,940,108"
+		},
+		{
+			"@id": "898",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "899",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſearch, howe bread that is",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,908,940,104"
+		},
+		{
+			"@id": "900",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "901",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "gathered of corne, and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1012,940,96"
+		},
+		{
+			"@id": "902",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "903",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "through fyers heate baked,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1108,940,104"
+		},
+		{
+			"@id": "904",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "905",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "may bee turned to Chriſtes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1212,940,104"
+		},
+		{
+			"@id": "906",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "907",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "body, or how wyne that is",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1316,940,100"
+		},
+		{
+			"@id": "908",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "909",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "preſſed out of many grapes",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1416,940,104"
+		},
+		{
+			"@id": "910",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "911",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "is turned through one bleſ-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1520,940,88"
+		},
+		{
+			"@id": "912",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "913",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ſing to the Lordes bloude.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1608,940,120"
+		},
+		{
+			"@id": "914",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "915",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "Now ſaye we to ſuche men,",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1728,940,100"
+		},
+		{
+			"@id": "916",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "917",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "that ſome thinges be ſpo-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1828,940,100"
+		},
+		{
+			"@id": "918",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "919",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "ken of Chriſt by* ſignifica-",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,1928,940,104"
+		},
+		{
+			"@id": "920",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "921",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "tion, ſome thing by thing",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#244,2032,940,100"
+		},
+		{
+			"@id": "922",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "923",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "certaine. True thing is",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#272,2128,952,100"
+		},
+		{
+			"@id": "924",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "925",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "and",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#1048,2228,176,92"
+		},
+		{
+			"@id": "926",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "927",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "*This was now in queſtion, and ſo be-fore Be-ringariue tyme.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#1164,716,284,544"
+		},
+		{
+			"@id": "928",
+			"@type": "oa:Annotation",
+			"motivation": "sc:painting",
+			"resource": {
+				"@id": "929",
+				"@type": "cnt:ContentAsText",
+				"format": "text/html",
+				"chars": "A neceſ-ſarye di-ſtinction.",
+				"language": "eng"
+			},
+			"on": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_61#1200,1912,248,232"
+		}]
+}
