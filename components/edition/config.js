@@ -1,4 +1,4 @@
-function ($) {
+function($) {
   
   $.config_1 = {
     "id" : "mirador_viewer_1",

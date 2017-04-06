@@ -2,4 +2,31 @@
 <p>This will contain a Mirador instance for viewing the object with zoom/pan and comparative functions</p>
 
 
-<p><iframe src="/components/edition/config.html" width="800" height="600" marginwidth="0" marginheight="0" frameborder="10" scrolling="no" id="frame" allowfullscreen="">You need an iFrame capable browser to view this.</iframe></p>
+<div class="mirador_container">
+    <div id="viewer" class="mirador_viewer"></div>
+</div>
+
+<script type="text/javascript">
+    $(function() {
+        Mirador({
+            "id": "viewer",
+            "mainMenuSettings" : {
+                'show' : false
+            },
+            "data": [
+                { "manifestUri": "https://purl.stanford.edu/rs424xq9888/iiif/manifest.json", "location": "Stanford University"},
+            ],
+            "windowObjects": [
+                {
+                    "loadedManifest": "http://oculus-dev.harvardx.harvard.edu/manifests/drs:5981093",
+                    "viewType" : "BookView",
+                    "canvasID": "http://oculus-dev.harvardx.harvard.edu/manifests/drs:5981093/canvas/canvas-5981104.json",
+                    //"bottomPanel" : false,
+                    "sidePanel" : false
+                    //"availableViews" : ['ThumbnailsView', 'ImageView', 'BookView']
+                    //"overlay" : false
+                }
+            ]
+        });
+    });
+</script>
