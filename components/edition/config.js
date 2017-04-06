@@ -27,7 +27,7 @@ function($) {
     },
     windowObjects: [
 			  {
-					"loadedManifest": "https://purl.stanford.edu/rs424xq9888/iiif/manifest.json",
+					"loadedManifest": ""//"https://purl.stanford.edu/rs424xq9888/iiif/manifest.json",
 					"viewType" : "BookView",
 					"canvasID": "http://oculus-dev.harvardx.harvard.edu/manifests/drs:5981093/canvas/canvas-5981104",
 					//"bottomPanel" : false,
