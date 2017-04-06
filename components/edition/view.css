@@ -1,6 +1,5 @@
 .mirador_container {
     position: relative; /* Necessary when mirador viewer div's position is absolute */
-    border: 5px solid green;
     margin: 10px;
     width: 90%;
     height: 600px;
