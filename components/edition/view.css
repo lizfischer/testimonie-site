@@ -20,3 +20,7 @@
     top: 0;
     bottom: 0;
 }
+
+.mirador_viewer h3 {
+    font-size: medium;
+}
