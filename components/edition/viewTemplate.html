@@ -11,7 +11,7 @@
         Mirador({
             "id": "viewer",
             "mainMenuSettings" : {
-                'show' : false
+                'show' : false,
             },
             "data": [
                 { "manifestUri": "https://purl.stanford.edu/rs424xq9888/iiif/manifest.json", "location": "Stanford University"},
@@ -21,12 +21,16 @@
                     "loadedManifest": "https://purl.stanford.edu/rs424xq9888/iiif/manifest.json",
                     "viewType" : "BookView",
                     "canvasID": "https://purl.stanford.edu/rs424xq9888/iiif/canvas/rs424xq9888_1",
-                    "bottomPanel" : false,
+                    //"bottomPanel" : false,
+                    "bottomPanelVisible": false,
                     "sidePanel" : false
                     //"availableViews" : ['ThumbnailsView', 'ImageView', 'BookView']
-                    //"overlay" : false
+                    //"overlay" : false,
+                    "displayLayout": false
                 }
-            ]
+            ],
+            "autoHideControls": true,
+
         });
     });
 </script>
