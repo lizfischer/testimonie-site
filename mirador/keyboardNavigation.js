@@ -6,11 +6,11 @@
     function currentView(window) {
         switch (window.viewType) {
             case 'ImageView':
-                console.log('Go to previous image');
+                //console.log('Go to previous image');
                 return window.focusModules.ImageView;
                 break;
             case 'BookView':
-                console.log('Go to previous image');
+                //console.log('Go to previous image');
                 return window.focusModules.BookView;
                 break;
         }
@@ -46,7 +46,7 @@
                 origFunc.apply(this);
                 var this_ = this;
                 Mousetrap.bind(['left'], function(){
-                    console.log('Got key ←, going to previous page.');
+                    //console.log('Got key ←, going to previous page.');
                     var workspace = this_.workspace;
                     if (anyViewIsZoomed(workspace)) {
                         return;
@@ -56,7 +56,7 @@
                     });
                 });
                 Mousetrap.bind(['ctrl+left'], function(){
-                    console.log('Got key ←, going to previous page.');
+                    //console.log('Got key ←, going to previous page.');
                     var workspace = this_.workspace;
                     if (anyViewIsZoomed(workspace)) {
                         return;
@@ -67,7 +67,7 @@
                     });
                 });
                 Mousetrap.bind(['right', 'space'], function(){
-                    console.log('Got key → or ␣, going to next page.');
+                    //console.log('Got key → or ␣, going to next page.');
                     var workspace = this_.workspace;
                     if (anyViewIsZoomed(workspace)) {
                         return;
@@ -77,7 +77,7 @@
                     })
                 });
                 Mousetrap.bind(['ctrl+right'], function(){
-                    console.log('Got key ←, going to previous page.');
+                    //console.log('Got key ←, going to previous page.');
                     var workspace = this_.workspace;
                     if (anyViewIsZoomed(workspace)) {
                         return;
@@ -87,7 +87,7 @@
                     });
                 });
                 Mousetrap.bind(['enter'], function(){
-                    console.log('Got key ↵, toggle fullscreen.');
+                    //console.log('Got key ↵, toggle fullscreen.');
                     if (this_.workspace.windows.length == 1) {
                         jQuery('.mirador-osd-fullscreen').click();
                     }
@@ -96,7 +96,7 @@
                     }
                 });
                 Mousetrap.bind(['i'], function(){
-                    console.log('Got key i, toggle metadata info.');
+                    //console.log('Got key i, toggle metadata info.');
                     //jQuery('.mirador-osd-fullscreen').click();
                     this_.workspace.windows.forEach(function(w) {
                         w.toggleMetadataOverlay(w.viewType);
@@ -107,7 +107,7 @@
     }
 
     $(document).ready(function() {
-        console.log('Loading Keyboard Navigation...');
+        //console.log('Loading Keyboard Navigation...');
         KeyboardNavigation.init();
     })
 
