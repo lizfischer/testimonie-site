@@ -33,8 +33,40 @@ testimonieApp.config(['$routeProvider', '$locationProvider',
             templateUrl: 'components/front/intro.html',
             controller: 'FrontController'
         }).
+        when('/front/reformation', {
+            templateUrl: 'components/front/reformation.html',
+            controller: 'FrontController'
+        }).
+        when('/front/parker', {
+            templateUrl: 'components/front/parker.html',
+            controller: 'FrontController'
+        }).
+        when('/front/contents', {
+            templateUrl: 'components/front/contents.html',
+            controller: 'FrontController'
+        }).
+        when('/front/printing', {
+            templateUrl: 'components/front/printing.html',
+            controller: 'FrontController'
+        }).
+        when('/front/reprintings', {
+            templateUrl: 'components/front/reprintings.html',
+            controller: 'FrontController'
+        }).
+        when('/front/binding', {
+            templateUrl: 'components/front/binding.html',
+            controller: 'FrontController'
+        }).
+        when('/front/interventions', {
+            templateUrl: 'components/front/interventions.html',
+            controller: 'FrontController'
+        }).
         when('/front/editorial-policy', {
             templateUrl: 'components/front/editTemplate.html',
+            controller: 'FrontController'
+        }).
+        when('/front/digital-editing', {
+            templateUrl: 'components/front/digital-editing.html',
             controller: 'FrontController'
         }).
         when('/front/bibliography', {
